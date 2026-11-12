@@ -1,30 +1,32 @@
-# Radio Copy for Sales
+# Radio Copywriting Super Skill
 
-Use this skill to draft a radio spot from a sales brief or tighten an existing script for its booked length.
+Use it to turn rough notes into a finished radio commercial, get creative concepts for a client, or tighten an existing script to fit a booking.
 
 ## Get started
 
-- **If your AI app supports custom skills**, import `radio-copy-for-sales.zip` or follow the app's instructions for adding the extracted `radio-copy-for-sales` folder.
-- **In a regular AI chat**, attach `SKILL.md` and ask the AI to follow it. If attachments are unavailable, paste the file contents before your brief or draft.
+- **If your AI app supports custom skills**, import the ZIP or add the extracted `radio-copy-for-sales` folder using the app's skill setup. Keep the `references` folder with `SKILL.md`.
+- **In a regular AI chat**, attach `SKILL.md` and ask the AI to follow it. For concepts, campaigns, dialogue, or produced spots, attach `references/creative-approaches.md` too. If you can't attach files, paste their contents into the chat.
 
-## Try it
+## Prompts you can copy
 
-> Use Radio Copy for Sales to rewrite this draft for a :30 spot. Keep the price, offer dates, and required tag. Give me the finished script, spoken word count, and estimated read time. Flag anything I need to confirm with the client.
+**Write a spot from rough notes**
 
-Paste your draft under the request. For a spot from scratch, use this brief:
+> Use the Radio Copywriting Super Skill. Turn the notes below into one :30 radio spot. Give it an opening people will remember and keep the client's offer and mandatory wording intact. Include the spoken word count, estimated runtime, and anything I need to confirm.
 
-- **Client and audience**
-- **Booked length** (for example, :15 or :30)
-- **Main offer or message**
-- **Offer dates and conditions**
-- **What listeners should do** and where they should go
-- **Required wording, tag, or pronunciation notes**
-- **Delivery or production notes**, if any
+**Fix a script that runs long**
+
+> Use the skill to tighten this :30. My read took 34 seconds, including the tag. Keep the offer, dates, and tag. Make it sound natural aloud and give me a fresh timing estimate.
+
+**Pitch a campaign**
+
+> Use the skill and its creative approaches reference. Give me three distinct ideas for a series of :30 spots. For each, show me a sample opening and what makes the idea specific to this client.
+
+## Paste whatever you have
+
+A rough email or bullet list is enough to start. Include the booked length, client name, audience, main offer or message, offer dates and conditions, next step, and any wording that has to stay exact. Include pronunciation notes and any production time that needs to fit inside the spot.
 
 ## Before sending to production
 
-1. Check the script against the brief, especially prices, dates, conditions, and the call to action.
-2. Read it aloud at the intended pace with a stopwatch. Include voiced tags and allow time for any pauses, effects, or music that play on their own.
-3. If it runs long or feels rushed, give the AI the actual time. For example, “This read took 33 seconds. Cut four seconds of optional copy and keep the offer and tag.” Time the revision again.
-
-The AI's estimated runtime is a planning number. The read-through tells you whether the script fits at the pace you want.
+1. Check the script against the brief, especially the offer terms, required tag, and where the listener should go.
+2. Read it aloud at the intended pace with a stopwatch. Include all voiced tags and allow for any pauses, effects, or music that play on their own.
+3. If it runs long or feels rushed, give the AI the stopwatch result and tell it what must stay. Time the revision again. Use the final produced runtime if the spot has a mix.
