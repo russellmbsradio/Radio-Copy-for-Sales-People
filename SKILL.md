@@ -1,44 +1,48 @@
 ---
-name: radio-copy-for-sales-people
-description: Write, rewrite, or check broadcast radio commercials and live reads from a sales brief or existing script. Use when copy needs to sound natural aloud, preserve the advertiser's offer, and fit a booked duration.
+name: radio-copy-for-sales
+description: Turn rough sales notes, client briefs, or existing scripts into memorable broadcast radio commercials. Use for creative concepts, retail and brand spots, live reads, produced ads, campaign variations, rewrites, and booked-length timing checks.
 ---
 
-# Radio Copy for Sales
+# Radio Copywriting Super Skill
 
-Write copy an announcer can say comfortably and a listener can follow on the first hearing. Use the current brief as the source for the client's facts.
+Give the salesperson copy they can send for approval or hand to production, with any open questions clearly marked. Write for a listener who hears the spot once while doing something else.
 
-## Get the brief straight
+## Start with what Sales has
 
-- Identify the advertiser, main message, booked length, offer and dates, required wording, and the action listeners should take. If the length is missing, ask for it when timing is the assignment. For a rough draft, state the length you assumed.
-- Keep a private list of what must survive the edit. Include exact prices, dates, locations, contact details, eligibility, qualifying purchases, and mandatory tags when supplied. Keep air dates separate from offer dates.
-- Never guess an offer, deadline, web address, condition, savings claim, or superlative. Flag material gaps or conflicting details. If a draft is still useful, mark it as pending confirmation and put the question outside the spoken copy.
+- Accept rough notes, a pasted email, a list of offers, or an existing script. Extract the advertiser, audience, booked length, main message, next step, required wording, and production constraints from what is supplied. For a rewrite, preserve the requested voice and make the requested changes.
+- Proceed when you can produce a useful draft. If the length is missing and a draft is useful, assume :30 and label it. Ask for the booked length when checking an actual booking. Bundle material questions about conflicting offers, eligibility, dates, destinations, or mandatory wording into one short note. If an essential fact is unknown, draft around it only if the result stays accurate. Otherwise mark the draft as pending and show any placeholder clearly.
+- Privately list the facts and phrases that must survive. Keep each offer attached to its dates, qualifying purchase, exclusions, and eligibility. Distinguish air dates from offer dates. Preserve exact required tags and disclosures, including words such as “up to,” “almost,” and “select.” Use earlier campaign facts only when the current brief explicitly carries them forward. Never invent prices, stock, deadlines, claims, testimonials, URLs, or offer terms.
 
-## Write for one hearing
+## Give the spot something to remember
 
-- Open with a specific benefit, offer, or situation a listener will recognize. Give the spot one main idea and one clear next step, unless the brief requires more. Place each qualifier next to the offer it applies to.
-- Write in natural speech. Use contractions when they fit, break up sentences with too many clauses, and vary the rhythm. Read the lines as an announcer would. If a line takes a second breath or sounds odd out loud, rewrite it.
-- Cut generic lines such as “Your one-stop shop,” “Look no further,” or “We've got you covered.” Replace them with a detail from the brief that matters to the listener. Avoid stacked adjectives, staged banter, and three-part lists written just for rhythm.
-- Write prices, times, dates, URLs, phone numbers, and abbreviations as talent should say them when the pronunciation is clear. Preserve any wording that must appear verbatim. Put any pronunciation guidance in a separate note.
-- Use clean announcer copy by default. Add dialogue or production cues when requested or when they carry the idea. Keep cues visually separate from words to be voiced.
+- Pick the one thing listeners should remember, then choose a real detail, image, or action that makes it stick. Tie the idea to the advertiser or offer. If the hook could run for any competitor, look for a detail from this brief.
+- For retail, lead with the strongest offer or reason to act. For awareness, dramatize one recognisable moment or reason to choose the business. For a produced spot, let sound or dialogue do work the announcer would otherwise have to explain. Choose the simplest treatment that delivers the idea.
+- Bring the advertiser into the idea early enough to follow. Use the closing line or action to reinforce the connection. Keep supplied slogans verbatim when required. Use repetition when it helps listeners retain a name, destination, or offer.
+- For concept pitches, campaigns, comedy, dialogue, or richer production, read [Creative approaches](references/creative-approaches.md). For a straightforward request, deliver one finished spot. Provide options when asked or when two genuinely different creative directions would help the user choose.
 
-## Check the clock
+## Write for the ear
 
-Use these starting budgets for straight reads before any separate production time. Adjust for delivery, especially relaxed reads, dialogue, or number-heavy copy.
+- Use familiar words, contractions where natural, and clean phrasing an announcer can say in one breath. Read it mentally at performance pace. Fix awkward stress, tongue-twisters, unclear pronouns, and strings of numbers or dates.
+- Cut generic hooks and filler such as “Look no further,” “We've got you covered,” and “for all your needs.” Replace them with specifics from the brief. Avoid forced rhymes, staged questions, and dialogue that sounds like two people reading a flyer.
+- Make numbers, initials, dates, and contact details easy to read aloud. Use one main call to action where the brief permits. Preserve every digit or character of contact details and exact mandatory copy. Flag uncertain pronunciations outside the script.
+- Default to clean single-voice copy. Add voice labels and brief sound, music, or timing cues when they affect the read or when a produced script is requested. Put cues on separate lines. Keep alternative takes and client questions outside the copy.
 
-| Booked length | Starting budget |
+## Time the finished version
+
+| Booked length | Starting budget for a straight read |
 | --- | ---: |
 | :10 | 20–24 spoken words |
 | :15 | 30–36 spoken words |
 | :30 | 60–72 spoken words |
 | :60 | 120–144 spoken words |
 
-1. Count the final words as spoken. Expand symbols, numbers, URLs, and initials for the count even if the script must retain the printed version. For example, “$19.99” read as “nineteen dollars and ninety-nine cents” counts as six words if the hyphenated number is counted as one. Use the same counting convention throughout and use a tool to tally when available.
-2. Use about 2.0–2.4 spoken words per second as a planning range for a straight read. Divide spoken words by the assumed pace, then add time for any isolated effects, deliberate holds, or music buttons. Music under speech adds time only where it extends past the voice. Include all voiced legal copy and tags in the count, or time them separately and add their duration once. Allow extra time for contact details and dense legal language.
-3. If the estimate is over, cut filler and optional detail first. Keep mandatory copy intact and protect time for the call to action. If the requirements still won't fit at a clear pace, identify what needs client approval to cut or suggest a longer booking. Avoid delivering an overlength draft as ready to air.
-4. Label a calculation **estimated**. Report a measured runtime only from an actual timed read or audio. Identify what was timed. A dry read excludes any production time it didn't include. For a final fit check, have someone read at the intended pace with a stopwatch, including planned gaps and tags. If it runs long, revise and time the revised version.
+1. Count the final words as voiced. Expand prices, phone numbers, URLs, dates, symbols, and initials as they will be spoken. For example, “nineteen dollars and ninety-nine cents” is six words when the hyphenated number counts as one. Use a consistent convention and a counting tool when available.
+2. Divide the spoken count by a delivery pace suited to the copy. Start around 2.0–2.4 words per second for a straight read. Use a slower pace when the read is warm, dialogue-heavy, or dense with figures. Add time for deliberate pauses, voice changes, standalone sound, or a music tail. Music under speech adds time where it extends beyond the voice. Include voiced tags and legal in the count, or budget them separately once when their duration is known.
+3. If it runs long on paper, cut filler, duplicated ideas, and optional details. Preserve mandatory facts and leave room for the close. If it still needs a rushed read, state what could be cut with client approval or suggest a longer booking. If a fixed-duration produced spot reads short, use a purposeful beat or music tail where appropriate. Avoid padding it with filler.
+4. Label calculated timing **estimated** and give the pace and separate production allowance. Call a runtime **measured** only when an actual read or audio has been timed. State what was timed, such as a dry read or a produced mix. Use the supplied stopwatch time as a baseline when revising and time the new version before treating its fit as verified.
 
-## Return the copy
+## Hand back copy Sales can use
 
-Lead with the finished script. Below it, include the booked length, final spoken word count, and estimated or measured runtime. Give the pace and any separate production allowance for an estimate. Add a short note only for a material issue, a timing conflict, or a pronunciation that needs confirmation.
+Lead with the script or requested concepts. For each finished spot, include the booked length, spoken word count, and estimated or measured runtime. Put any fact to confirm or approval needed in a short note beneath the script. A timing audit should also identify what makes the draft run long and offer a tighter cut when possible.
 
-Before handing it back, compare the script with the brief. Check that listeners can tell who the ad is for, what the offer is, and what to do next. Recount and re-estimate after any final edit.
+Before handing it back, check the brief against the spoken copy. Can someone hearing it once remember the advertiser and main idea and tell what to do next? Can talent say it clearly within the slot? Did the final edit preserve every required fact and qualifier? Recount after changes.
